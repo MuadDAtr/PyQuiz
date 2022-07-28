@@ -1,0 +1,44 @@
+[{
+    "question": "What is the capital of Sweden?",
+    "answers": [
+        {
+            "ans": "Paris",
+            "isCorrect": false
+        },
+        {
+            "ans": "Tokyo",
+            "isCorrect": false
+        },
+        {
+            "ans": "Stockholm",
+            "isCorrect": true
+        },
+        {
+            "ans": "Reykjavik",
+            "isCorrect": false
+        }
+    ]
+},
+{
+    "question": "What is the highest peak of Australia?",
+    "answers": [
+        {
+            "ans": "Uluru",
+            "isCorrect": false
+        },
+        {
+            "ans": "Mount Kosciuszko",
+            "isCorrect": true
+        },
+        {
+            "ans": "Mount Elbrus",
+            "isCorrect": false
+        },
+        {
+            "ans": "Ayers Rock",
+            "isCorrect": false
+        }
+
+    ]
+}
+]
