@@ -62,5 +62,27 @@
         }
 
     ]
+},
+{
+"question": "Which continent is the biggest",
+"answers": [
+    {
+        "ans": "Asia",
+        "isCorrect": true
+    },
+    {
+        "ans": "Africa",
+        "isCorrect": false
+    },
+    {
+        "ans": "Australia",
+        "isCorrect": false
+    },
+    {
+        "ans": "South America",
+        "isCorrect": false
+    }
+
+]
 }
 ]
